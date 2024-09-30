@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="196" src="https://raw.githubusercontent.com/simonkovtyk/commit-bump/" />
+<img width="196" src="https://raw.githubusercontent.com/simonkovtyk/commit-bump/5787ccb13ee12c07bea57f0ef4b02e0a934b7fc1/docs/logo.svg" />
 
 <h1>Commit Bump</h1>
 
